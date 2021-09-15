@@ -1,0 +1,8 @@
+﻿  InjectDllByChangeRunningState.cpp
+D:\windows\LearnWindowsHowItWorksByBadThings\InjectDllByChangeRunningState\InjectDllByChangeRunningState.cpp(66,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\windows\LearnWindowsHowItWorksByBadThings\InjectDllByChangeRunningState\InjectDllByChangeRunningState.cpp(123,26): warning C4477: “wprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“HMODULE”
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  InjectDllByChangeRunningState.vcxproj -> D:\windows\LearnWindowsHowItWorksByBadThings\InjectDllByChangeRunningState\Release\InjectDllByChangeRunningState.exe
